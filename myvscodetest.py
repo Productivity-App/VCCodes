@@ -9,7 +9,10 @@ def main():
     print("weeeeeeeee")
     print("I'm In!!")
     print("hiii!")
+<<<<<<< HEAD
+=======
     print("blahahhahah")
+>>>>>>> hello
 
 if __name__ == "__main__":
     # execute only if run as a script

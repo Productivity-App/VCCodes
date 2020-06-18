@@ -1,0 +1,10 @@
+https://app.lucidchart.com/documents/edit/f241db11-bfd3-407c-abbd-543f0c38ba6c/0_0?shared=true
+
+https://medium.com/@9cv9official/simple-chat-app-using-django-channel-ed5032b79b9c
+
+https://www.twilio.com/blog/2018/03/python-django-twilio-programmable-chat-application.html
+
+https://github.com/kigsmtua/chat
+
+https://www.reddit.com/r/Python/comments/h7h8tq/we_developed_a_minimalistic_opensource_web_app/?utm_medium=android_app&utm_source=share
+
